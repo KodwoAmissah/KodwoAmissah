@@ -15,7 +15,7 @@ In essence, while my journey may have begun at an entry-level, my aspirations an
 
 * 🌍  I'm based in Ghana, Accra
 * ✉️  You can contact me at [kodwoam@gmail.com](mailto:kodwoam@gmail.com)
-* 🧠  I am a Data Scientist
+* 🧠  I am a Data Analyst
 * 🤝  I'm open to collaborating on SQL, Power BI, and Supervised ML Projects
 * ⚡  Meet your team player: fast, detail-oriented, and hilariously awesome!
 
