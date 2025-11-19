@@ -3,15 +3,13 @@ Hi !My name is Kodwo Amissah-Mensah
 
 Data Analyst||Machine Learning||Python||SQL||Data Visualization
 -----------------------------------
-I currently thrive in an entry-level role in the field of data analytics, where my passion for the world of data analysis, reporting, and visualization comes to life. This role has been my launchpad into the fascinating realm of data-driven insights.
+I currently thrive in the role  of data analytics, where my passion for the world of data analysis, reporting, and visualization comes to life. This role has been my launchpad into the fascinating realm of data-driven insights.
 
 My expertise spans a wide range of data-related tasks. From the meticulous collection and cleansing of data to in-depth analysis using tools like Excel, Power BI, Python, SQL, and machine learning, I've honed my skills to extract valuable insights from complex datasets.
 
 However, what truly defines me is my ability to turn those insights into actionable recommendations that drive strategic decision-making. 
 
 Beyond my technical skills, I excel in communication and problem-solving. I have a knack for transforming data into compelling narratives.
-
-In essence, while my journey may have begun at an entry-level, my aspirations and dedication in the world of data analytics are anything but entry-level. I'm here to make a significant impact through the captivating world of data-driven insights.
 
 * 🌍  I'm based in Ghana, Accra
 * ✉️  You can contact me at [kodwoam@gmail.com](mailto:kodwoam@gmail.com)
